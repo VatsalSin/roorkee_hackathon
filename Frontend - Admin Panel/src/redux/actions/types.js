@@ -1,0 +1,17 @@
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const USER_UPDATE = 'USER_UPDATE';
+export const USER_UPDATE_FAIL = 'USER_UPDATE_FAIL';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const LOGOUT_FAIL = 'LOGOUT_FAIL';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const GET_ERRORS = 'GET_ERRORS';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+export const OPEN_LOGIN_MODAL = 'OPEN_LOGIN_MODAL';
+export const CLOSE_LOGIN_MODAL = 'CLOSE_LOGIN_MODAL';
+
+export const ADMIN_PAGE_LOADING = 'ADMIN_PAGE_LOADING';
+export const GET_ALL_ROADS = 'GET_ALL_ROADS';
+export const GET_ALL_ROADS_FAIL = 'GET_ALL_ROADS_FAIL';

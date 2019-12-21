@@ -1,0 +1,16 @@
+.newbutton{
+  background-color: inherit;
+  border: none;
+  text-decoration: underline;
+  padding: 0px 0px;
+  padding-left: 7px;
+  color: blue;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+@media(min-width: 600px){
+  .ant-modal{
+    padding-left: 100px;
+  }
+}
