@@ -1,1 +1,7 @@
-# roorkee_hackathon
+# Inter IIT Techmeet 8.0 Hackathon
+
+## Objective:- TO
+To build a decentralised application for tracking progress of road building projects as well as to register complains for road damage.
+
+## Idea:-
+Whenever a new road project is initiated, the constructor who has contract of making the road will click its pictures regularly in order to report the progress. These images will be stored on the ethereum blockchain so that they cannot be tempered. Images of the progress of this project will be uploaded by various other people in return of incentives, which are coins and stickers in our case. Due to use of safe ethereum ledgers the transactions cannot be tempered by anybody not even the government officials. Similarly, whenever a person wants to register a complaint on the portal, he can just upload the images using the android app. These images will again be stored in a ethereum blockchain. The government agencies can look at all the images of complaints submitted for a particular road. The official can then use the Machine Learning model and Blockchain consensus to arrive at a suitable decision. Each person can view the status of the complaints they regitered. For each progress report and complaint registered by user he gets 0.5 coins and also might get a sticker. The person in expected to collect 5 unique stickers to get a bag of 20 coins. Each coin is worth Re.1, that can be used to pay challans, electricity bills, etc
